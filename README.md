@@ -1,3 +1,9 @@
+Original task:
+https://gist.github.com/mariusbalcytis/128d6a38b0d2a698cdf725894f2924ea#palaikomos-valiutos
+ 
+ 
+ 
+ 
  Requirements
 
 There are no tight restrictions on time, but there is no loss of communication - if you encounter problems or do not get free time, contact
